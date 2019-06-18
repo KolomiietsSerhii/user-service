@@ -28,6 +28,7 @@ Apart from that User Service has module "user-service-client", that may be downl
 
 Module "user-service-api" also may be used as dependency in order to know and understand data format. All main implementations (service, controller, etc) implements interface UserService, that declared in API. It is guarantee that service user will receive data in format, that declared in API module.
 
+Nice to have but not implemented: more tests for God Of Tests, dockerfile and ability to run this project from container, extended telemetry.
 
 # Project infrastructure overview
 
