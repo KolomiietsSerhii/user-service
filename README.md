@@ -14,4 +14,4 @@ Alternatively, if you not have Docker installed on current machine, you may skip
 After service start, proceed to #####[host]:8080/user-service/swagger-ui.html#/ in order to see Swagger UI page 
 
 # Project infrastructure overview
-![Alt text](Infrastructure.png?raw=true "Infrastructure")
+![Alt text](https://github.com/KolomiietsSerhii/user-service/blob/master/Infrastructure.PNG?raw=true "Infrastructure")
