@@ -23,7 +23,7 @@
         <springfox.version>2.9.2</springfox.version>
         <testcontainers.mysql.version>1.11.3</testcontainers.mysql.version>
         <mysql.connector.version>8.0.16</mysql.connector.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <wiremock.version>1.18</wiremock.version>
     </properties>
 
